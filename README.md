@@ -1,1 +1,1 @@
-App Site for Autocalc: salman660.github.io/medi
+App Site for Autocalc: https://salman660.github.io/Medi-Player/
